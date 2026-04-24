@@ -3,7 +3,7 @@
 Interactive passenger review analysis covering Aer Lingus, British Airways,
 and Iberia (2014–2026) — built as a single self-contained HTML file.
 
-**Live:** https://[yourusername].github.io/iag-airline-sentiment
+**Live:** https://binnie404.github.io/iag-airline-sentiment/
 
 ### Views
 - Overview — ratings, sub-metrics, trend & distribution
